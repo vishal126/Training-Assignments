@@ -1,3 +1,7 @@
+// Question 3: Conditional Rendering with Props
+// Create a `StatusMessage` component that takes a `status` prop. If `status` is 'success', display
+// 'Operation was successful'. If `status` is 'error', display 'There was an error'.
+
 import React from 'react';
 
 export default function StatusMessage({ status }) {

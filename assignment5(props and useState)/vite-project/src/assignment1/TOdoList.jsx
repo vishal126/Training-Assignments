@@ -1,4 +1,6 @@
-
+// Question 10: Rendering Lists with Props
+// Create a `TodoList` component that accepts an array of todos via props. Render each todo item in
+// the list.
 
 import React from 'react';
 

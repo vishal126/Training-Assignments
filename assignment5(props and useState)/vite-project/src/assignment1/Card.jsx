@@ -1,3 +1,8 @@
+// Question 2: Multiple Props
+// Build a `ProfileCard` component that takes `name`, `age`, and `location` as props and displays them
+// in a card layout.
+
+
 import React from 'react'
 
 function Card({name, age, location}) {

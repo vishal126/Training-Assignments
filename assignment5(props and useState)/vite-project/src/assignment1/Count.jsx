@@ -1,3 +1,8 @@
+// Question 4: useState Basics
+// Create a `Counter` component that uses `useState` to track and display a count. Include buttons to
+// increment and decrement the count.
+
+
 import React from 'react'
 import { useState } from "react";
 
